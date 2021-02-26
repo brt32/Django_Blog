@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:main" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cdfab52f-e97a-4e30-85ac-242faf3cf5c5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/fd9cab86-1b65-4414-8b70-f4a820c5faf2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Login/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/App_Login/change_profile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/App_Login/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/App_Login/pass_change.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/App_Login/profile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App_Login/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/App_Login/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App_Login/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/App_Login/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog_with_Django_Kazi/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Blog_with_Django_Kazi/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/App_Login/signup.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/App_Login/signup.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" module-name="Blog_with_Django_Kazi" is-module-sdk="true">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+    <option name="myUseModuleSdk" value="true" />
+    <option name="myModuleName" value="Blog_with_Django_Kazi" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1oyie3fxoqyXVBu2rZAb1osW4Zn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/db.sqlite3" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="SQL Resolution Scopes" />
+    <property name="settings.editor.splitter.proportion" value="0.21733966" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="Blog_with_Django_Kazi" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="Blog_with_Django_Kazi" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Blog_with_Django_Kazi" type="Python.DjangoServer" factoryName="Django server">
+      <module name="Blog_with_Django_Kazi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="Blog_with_Django_Kazi.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Bartek\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdfab52f-e97a-4e30-85ac-242faf3cf5c5" name="Default Changelist" comment="" />
+      <created>1614265322176</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614265322176</updated>
+      <workItem from="1614265324466" duration="233000" />
+      <workItem from="1614265635983" duration="13124000" />
+      <workItem from="1614328784369" duration="5463000" />
+    </task>
+    <servers>
+      <GitHub url="https://github.com">
+        <option name="repoAuthor" value="brt32" />
+      </GitHub>
+    </servers>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="532" y="332" width="1200" height="736" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1614265714936">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="532" y="332" width="1200" height="736" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400/-1920.197.1920.1040@0.0.2560.1400" timestamp="1614265714936" />
+    <state x="901" y="276" key="FileChooserDialogImpl" timestamp="1614274344153">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="901" y="276" key="FileChooserDialogImpl/0.0.2560.1400/-1920.197.1920.1040@0.0.2560.1400" timestamp="1614274344153" />
+    <state width="2483" height="355" key="GridCell.Tab.0.bottom" timestamp="1614265558231">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2483" height="355" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1920.197.1920.1040@0.0.2560.1400" timestamp="1614265558231" />
+    <state width="2483" height="355" key="GridCell.Tab.0.center" timestamp="1614265558231">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2483" height="355" key="GridCell.Tab.0.center/0.0.2560.1400/-1920.197.1920.1040@0.0.2560.1400" timestamp="1614265558231" />
+    <state width="2483" height="355" key="GridCell.Tab.0.left" timestamp="1614265558231">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2483" height="355" key="GridCell.Tab.0.left/0.0.2560.1400/-1920.197.1920.1040@0.0.2560.1400" timestamp="1614265558231" />
+    <state width="2483" height="355" key="GridCell.Tab.0.right" timestamp="1614265558231">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2483" height="355" key="GridCell.Tab.0.right/0.0.2560.1400/-1920.197.1920.1040@0.0.2560.1400" timestamp="1614265558231" />
+    <state x="430" y="83" key="SettingsEditor" timestamp="1614274683171">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="430" y="83" key="SettingsEditor/0.0.2560.1400/-1920.197.1920.1040@0.0.2560.1400" timestamp="1614274683171" />
+    <state width="650" height="795" key="SqlResolveConfigurable" timestamp="1614274361496">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="650" height="795" key="SqlResolveConfigurable/0.0.2560.1400/-1920.197.1920.1040@0.0.2560.1400" timestamp="1614274361496" />
+    <state x="938" y="542" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1614276162589">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="938" y="542" key="git4idea.remote.GitConfigureRemotesDialog/0.0.2560.1400/-1920.197.1920.1040@0.0.2560.1400" timestamp="1614276162589" />
+    <state x="689" y="0" width="1177" height="1396" key="search.everywhere.popup" timestamp="1614269932512">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="689" y="0" width="1177" height="1396" key="search.everywhere.popup/0.0.2560.1400/-1920.197.1920.1040@0.0.2560.1400" timestamp="1614269932512" />
+  </component>
+</project>
