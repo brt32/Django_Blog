@@ -19,28 +19,45 @@
     <select>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:main" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cdfab52f-e97a-4e30-85ac-242faf3cf5c5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/fd9cab86-1b65-4414-8b70-f4a820c5faf2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App_Login/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/App_Login/change_profile.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/App_Login/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/App_Login/pass_change.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/App_Login/profile.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Blog/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Blog/templatetags/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App_Blog/templatetags/custom_filters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/blog_image/1614189144-stripchat.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/blog_image/1614352100-datos1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/blog_image/553b23c9b04ff_2560x1600.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/blog_image/Buprenorphine_structure.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/download.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/profile_pics/ja1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/profile_pics/ja1_brvMbuN.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/profile_pics/ja1_cT59Vwj.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/profile_pics/zdjecie1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/profile_pics/zdjecie1_Eh9r6w9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/App_Blog/blog_details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/App_Blog/create_blog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/App_Blog/edit_blog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/App_Blog/my_blogs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/App_Login/pro_pic_add.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App_Blog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/App_Blog/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App_Blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/App_Blog/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App_Blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/App_Blog/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App_Login/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/App_Login/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App_Login/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/App_Login/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/App_Login/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/App_Login/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/App_Login/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/App_Login/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Blog_with_Django_Kazi/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Blog_with_Django_Kazi/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog_with_Django_Kazi/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Blog_with_Django_Kazi/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/App_Login/signup.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/App_Login/signup.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/App_Blog/blog_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/App_Blog/blog_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/App_Login/pass_change.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/App_Login/pass_change.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/App_Login/profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/App_Login/profile.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,6 +96,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -140,7 +158,8 @@
       <updated>1614265322176</updated>
       <workItem from="1614265324466" duration="233000" />
       <workItem from="1614265635983" duration="13124000" />
-      <workItem from="1614328784369" duration="5463000" />
+      <workItem from="1614328784369" duration="13038000" />
+      <workItem from="1614424456342" duration="18643000" />
     </task>
     <servers>
       <GitHub url="https://github.com">
@@ -156,24 +175,15 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="main" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="532" y="332" width="1200" height="736" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1614265714936">
@@ -212,9 +222,9 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="938" y="542" key="git4idea.remote.GitConfigureRemotesDialog/0.0.2560.1400/-1920.197.1920.1040@0.0.2560.1400" timestamp="1614276162589" />
-    <state x="689" y="0" width="1177" height="1396" key="search.everywhere.popup" timestamp="1614269932512">
+    <state x="689" y="0" width="1177" height="1396" key="search.everywhere.popup" timestamp="1614437257670">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="689" y="0" width="1177" height="1396" key="search.everywhere.popup/0.0.2560.1400/-1920.197.1920.1040@0.0.2560.1400" timestamp="1614269932512" />
+    <state x="689" y="0" width="1177" height="1396" key="search.everywhere.popup/0.0.2560.1400/-1920.197.1920.1040@0.0.2560.1400" timestamp="1614437257670" />
   </component>
 </project>

@@ -4,6 +4,14 @@
 
 {% block body_block %}
 
+    {% if changed %}
+
+    <div class="alert alert-success">
+        Password Changed Successfully!
+    </div>
+
+    {% endif %}
+
     <h2>Password Change</h2>
 
     <form method="POST">
